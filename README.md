@@ -23,6 +23,6 @@ To run the code, follow these steps:
 
 ## Contributors
 
-- [Your Name]
+- Allan Otieno
 
 Feel free to contribute by opening issues, suggesting improvements, or submitting pull requests.
